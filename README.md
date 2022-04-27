@@ -12,13 +12,13 @@ What all information can be achieved by mining this data, would be
 brainstormed by the interns
 Find key metrics and factors and show the meaningful relationships between attributes.
 ## DATASET: 
-
+https://drive.google.com/file/d/1Rtk2ghGotR4NVOSKCSPi3LyTMm99n3Zc/view?usp=sharing
 ## TECHNOLOGY:
-
+Business Intelligence
 ## DOMAIN:
-
+Banking, insurance and Finance
 ## TOOLS:
-
+MS POWER BI, MS EXCEL
 ## LINKEDIN: 
 
 ## VIDEO LINK:
