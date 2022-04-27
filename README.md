@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1Rtk2ghGotR4NVOSKCSPi3LyTMm99n3Zc/view?usp=shari
 ## TECHNOLOGY:
 Business Intelligence
 ## DOMAIN:
-Banking, insurance and Finance
+Banking, Insurance and Finance
 ## TOOLS:
 MS POWER BI, MS EXCEL
 ## LINKEDIN: 
