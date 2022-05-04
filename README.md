@@ -22,3 +22,4 @@ MS POWER BI, MS EXCEL
 ## LINKEDIN: 
 
 ## VIDEO LINK:
+https://youtu.be/uj2go8LOAnw
