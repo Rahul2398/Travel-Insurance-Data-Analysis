@@ -20,6 +20,6 @@ Banking, Insurance and Finance
 ## TOOLS:
 MS POWER BI, MS EXCEL
 ## LINKEDIN: 
-
+https://www.linkedin.com/posts/rahul-gupta-0b10bb21b_travel-insurance-analysis-dataanalysis-activity-6928692178655342592-RhoK?utm_source=linkedin_share&utm_medium=member_desktop_web
 ## VIDEO LINK:
 https://youtu.be/uj2go8LOAnw
